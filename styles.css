@@ -1,0 +1,23 @@
+
+  body {
+        background-color :powderblue;
+      }
+  hr{
+    background-color: powderblue;
+    border-style: none;
+    border-top: dotted;
+    width : 5%;
+    border-width: 6px;
+    border-color: grey;
+  }
+h1{
+  color: #F38181;
+  font-family: copperplate, fantasy;
+}
+h3{
+  color: #F38181;
+  font-family: garamond, serif;
+}
+h2{
+  color: #F38181;
+}
